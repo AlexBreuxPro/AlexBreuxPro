@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AlexBreuxPro
 - 👀 I’m interested in Cloud technology & Blockchain, and their financial impacts/challenges.
 I also enjoy doing a lot of Crossfit & Outdoor running - pushing further every single time, and maintaining a healthy lifestyle.
-- 🌱 I’m part of the "Plutus Pioneer Program", 2nd cohort, to deep dive into Plutus scripts related to the Cardano Blockchain.
-- 💞️ I’m looking to collaborate and discuss about topics related to the Cardano Blockchain, and with fellow Plutus and/or Crossfit practitioners :)
+- 🌱 I’m looking to collaborate and discuss about topics related to Cloud (Technology, FinOps), Blockchain (Smart contracts, Defi, Governance) and with fellow Crossfit practitioners :)
 - 📫 How to reach me: alexbreuxpro@gmail.com
 
 <!---
